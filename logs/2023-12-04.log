@@ -1,0 +1,440 @@
+2023-12-04 20:35:45.908 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 20:36:09.354 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 20:37:03.130 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/register
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 20:37:06.295 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/register
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 20:37:07.791 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/register
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 20:37:10.394 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/register
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 20:44:45.480 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:16:30.045 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 21:19:51.641 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:20:27.047 | INFO     | core.events:stop_app:25 - fastapi 项目结束.
+2023-12-04 21:27:37.672 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 21:27:39.877 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:33:04.207 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 21:35:35.448 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:35:50.662 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:36:10.142 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:38:50.193 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:38:51.821 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:39:21.129 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:39:22.322 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:39:57.638 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:39:58.652 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:39:59.427 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:40:06.218 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:40:07.051 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:07.077 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:07.926 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:08.311 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:08.661 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:09.097 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:09.460 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:21.979 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:23.296 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:40.923 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:41.813 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:42.268 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:42.631 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:42.987 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:41:49.838 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:18.055 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:19.061 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:29.622 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:32.440 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:33.248 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:44.897 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:45.832 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:46:46.422 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:47:13.502 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/login?username=shixiuhai&password=sxh.200008
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:49:22.853 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:50:08.690 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:50:34.854 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:50:54.524 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:50:55.564 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:14.559 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:20.026 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:22.006 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:36.593 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:43.295 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:44.367 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:51:54.841 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:52:07.904 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:52:08.908 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:53:53.661 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:53:54.614 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:53:59.003 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:53:59.932 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:04.773 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:05.653 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:06.053 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:06.418 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:42.964 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:54:43.994 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:55:15.834 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:55:16.705 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:55:25.795 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:55:26.830 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:55:34.101 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test?token=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDE5ODU2MzMsInN1YiI6IjEifQ.rgmUaQ0g5WJlKX2nHkj1y7QCUxPFqgIKMtZADNHSJrk
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:00.329 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:10.731 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:11.898 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:42.112 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:43.119 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:56:54.658 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 21:57:04.626 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/auth/test
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:00:20.392 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:02:38.191 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:03:38.556 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:05:27.657 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:05:45.327 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:06:02.864 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:06:14.163 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:06:16.846 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:09:21.792 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:09:35.546 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:09:59.827 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:10:20.499 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:10:32.047 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:10:39.873 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:10:54.302 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:11:51.588 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:12:13.080 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:12:39.707 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:12:52.057 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:13:25.923 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:14:01.490 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:14:11.537 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:14:54.037 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:14:55.480 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:16:11.036 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:16:54.137 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:17:42.248 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:17:49.129 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:18:46.774 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos//video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:18:53.032 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:19:13.442 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:19:18.701 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:19:18.709 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:19:20.413 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:19:20.421 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:19:27.760 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:20:45.473 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:20:53.383 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:20:59.699 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:17.212 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:19.105 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:20.018 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:20.809 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:21.564 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:21:33.035 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:23:32.550 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:24:39.716 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:25:07.249 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:25:16.494 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:25:46.910 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:30:22.804 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:30:38.753 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:30:41.702 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:30:41.706 | INFO     | app_douyin_video.api:create_douyin_video:28 - 请求成功
+2023-12-04 22:31:40.987 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/douyin_videos/video_parse
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:31:45.823 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/api/douyin_videos
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:32:38.599 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/docs
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:32:51.764 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/docs
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:33:11.309 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/docs
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:33:36.290 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/docs
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:35:16.909 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/docs
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:35:20.834 | INFO     | middleware.logger:dispatch:10 - GET url:http://127.0.0.1:8000/openapi.json
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:36:20.446 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/auth/register
+headers: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+IP:127.0.0.1
+2023-12-04 22:37:54.650 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:38:00.476 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:38:07.925 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:38:21.420 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:38:55.988 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:39:33.798 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:39:55.469 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:39:55.587 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:00.674 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:00.711 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:04.549 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:04.596 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:08.422 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:11.522 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:11.534 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:14.348 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:14.366 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:28.390 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:40:30.416 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:30.419 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:31.514 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:31.517 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:36.793 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:40:44.496 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:44.553 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:40:45.750 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:40:45.761 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:41:00.953 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:41:00.974 | INFO     | app_douyin_video.api:create_douyin_video:39 - 请求成功
+2023-12-04 22:42:02.297 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:42:08.708 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:42:10.946 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:42:11.038 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:42:12.190 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:42:12.202 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:42:15.335 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:42:19.913 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:42:26.510 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:42:31.517 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:42:57.559 | INFO     | core.events:start_app:16 - fastapi 项目启动.
+2023-12-04 22:43:01.011 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:43:01.076 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:43:03.783 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:43:03.798 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:43:04.778 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:43:04.787 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:43:07.269 | INFO     | middleware.logger:dispatch:10 - POST url:http://127.0.0.1:8000/api/douyin_videos/video_parse_token
+headers: PostmanRuntime-ApipostRuntime/1.1.0
+IP:127.0.0.1
+2023-12-04 22:43:07.281 | INFO     | app_douyin_video.api:create_douyin_video:40 - 请求成功
+2023-12-04 22:43:17.980 | INFO     | core.events:stop_app:25 - fastapi 项目结束.
